@@ -2,7 +2,7 @@
 
 
 
-## 🔍 Features
+##  Features
 
 - Responsive header with navigation links
 - Clean layout with sections:
@@ -17,7 +17,7 @@
 
 -----
 
-## 🧑‍💻 Technologies Used
+##  Technologies Used
 
 - **HTML5**
 - **CSS3**
