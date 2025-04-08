@@ -21,6 +21,5 @@
 
 - **HTML5**
 - **CSS3**
-- Icons from [Icons8](https://icons8.com/) and [Devicon](https://devicon.dev/)
-
+- Icons from [Icons8] and [Devicon]
 -----
