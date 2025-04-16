@@ -11,9 +11,8 @@
   - Skills (Technical & Non-Technical)
   - Projects with images and descriptions
   - Contact with clickable links
-- Stylish hover effects and transitions
-- Fixed header with shadow effect
-- Mobile responsive layout with media queries
+- Hover effects and transitions
+- Fixed header
 
 -----
 
